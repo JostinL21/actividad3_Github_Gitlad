@@ -14,3 +14,4 @@ exitoso o denegado.
 - Python 
 - Git y GitHub/GitLab
  Software educativo.
+Proyecto desarrollado para practicas de GiT.
