@@ -13,3 +13,4 @@ exitoso o denegado.
 ## Tecnologías utilizadas
 - Python 
 - Git y GitHub/GitLab
+ Software educativo.
